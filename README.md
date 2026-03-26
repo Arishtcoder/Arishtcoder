@@ -60,7 +60,7 @@ Currently exploring full-stack development and leveling up every day 🚀
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arishtcoder\&show_icons=true\&theme=tokyonight)
+![Arishtcoder GitHub stats](https://github-readme-stats.vercel.app/api?username=Arishtcoder\&show_icons=true\&theme=tokyonight)
 
 ---
 
