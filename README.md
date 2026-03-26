@@ -58,9 +58,6 @@ Currently exploring full-stack development and leveling up every day 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arishtcoder&show_icons=true&theme=tokyonight)
 
 
 ## 🚀 Currently Learning
